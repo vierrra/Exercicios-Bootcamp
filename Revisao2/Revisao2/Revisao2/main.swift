@@ -34,6 +34,6 @@ func getStudentNote(nameStudent: String) -> Double {
     return resultNote
 }
 
-let resultNote: Double = getStudentNote(nameStudent: "Maria")
+let resultNote: Double = getStudentNote(nameStudent: "João")
 print(resultNote)
 
